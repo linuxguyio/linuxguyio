@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  A cloud enthusiast and technology lover.
 </p>
 
 
