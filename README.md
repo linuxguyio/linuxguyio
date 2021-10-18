@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://linuxguy.io/">
-    <img src="https://img.shields.io/badge/Blog-%21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Blog-%21759B5.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
