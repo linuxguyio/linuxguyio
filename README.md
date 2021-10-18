@@ -41,7 +41,8 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
    <img alt="Aws" src="https://img.shields.io/badge/-aws-FFA500?style=flat&logo=amazon-aws&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
