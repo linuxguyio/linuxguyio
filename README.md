@@ -1,4 +1,10 @@
-### Hi there 👋 i'm Ashish <hr/>
+<h1 align='center'>
+  Hi there 👋 I'm Ashish 👨‍💻
+</h1>
+
+<p align='center'>
+  A mobile and .net developer from Curitiba, Brazil.
+</p>
 
 
 
