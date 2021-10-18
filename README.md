@@ -44,7 +44,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
-   <img alt="Aws" src="https://img.shields.io/badge/-aws-FFA500?style=flat&logo=amazon-aws&logoColor=white" />
+  <img alt="Aws" src="https://img.shields.io/badge/-aws-FFA500?style=flat&logo=amazon-aws&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
