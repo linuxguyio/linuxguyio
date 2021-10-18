@@ -44,4 +44,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start Over Again and Unmute All Twitter Users.](https://blog.natterstefan.me/start-over-again-and-unmute-all-twitter-users)
+- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
+- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
+- [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
+- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
 <!-- BLOG-POST-LIST:END -->
