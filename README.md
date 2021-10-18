@@ -62,15 +62,6 @@
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
 
-### Productivity & Communication Tools
-<p>
-  <img alt="BraveBrowser" src="https://img.shields.io/badge/-BraveBrowser-FB542B?style=flat&logo=brave&logoColor=white" /> 
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-</p>
-
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
