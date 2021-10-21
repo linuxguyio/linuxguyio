@@ -32,6 +32,7 @@
 
 - 🔭 I’m currently working on my personal blog [https://linuxguy.io]
 - 🌱 I’m currently learning Terraform and AWS
+- 💞️ I’m looking to collaborate on any AWS solution Architecture or Devops projects
 
 
 ## 🛠️ Technologies and Tools
