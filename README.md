@@ -58,8 +58,6 @@
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" />  
-  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />  
-  <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
 
 ## 📕 Latest Blog Posts
