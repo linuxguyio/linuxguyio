@@ -61,6 +61,9 @@
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" />  
 </p>
 
+## Certifications
+<h href="https://www.credly.com/badges/a3e4077f-3d18-4073-837c-b3e086fd59a8">HashiCorp Certified: Terraform Associate</a>
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
