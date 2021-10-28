@@ -62,7 +62,7 @@
 </p>
 
 ## Certifications
-<h href="https://www.credly.com/badges/a3e4077f-3d18-4073-837c-b3e086fd59a8">HashiCorp Certified: Terraform Associate</a>
+<a href="https://www.credly.com/badges/a3e4077f-3d18-4073-837c-b3e086fd59a8">HashiCorp Certified: Terraform Associate</a>
 
 ## 📕 Latest Blog Posts
 
