@@ -62,7 +62,7 @@
 </p>
 
 ## Education
-<img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/
+<img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 
 ## 🎓📚 Certifications
 
