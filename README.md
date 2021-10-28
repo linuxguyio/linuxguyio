@@ -63,10 +63,10 @@
 
 ## Education
 <img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /><br/>
-<a href="">AWS Solution Architect Associate </a> <br/>
-<a href="">AWS Developer Associate </a> <br/>
-<a href="">AWS SysOps Administrator Associate </a><br/>
-<a href="">Certified Kubernetes Administrator (CKA) </a><br/>
+ - <a href="">AWS Solution Architect Associate </a> <br/>
+ - <a href="">AWS Developer Associate </a> <br/>
+ - <a href="">AWS SysOps Administrator Associate </a><br/>
+ - <a href="">Certified Kubernetes Administrator (CKA) </a><br/>
 
 
 ## 🎓📚 Certifications
