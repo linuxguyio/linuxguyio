@@ -77,5 +77,5 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing my first Infrastructure as a Code (IaC) using Terraforms](https://www.linuxguy.io/writing-my-first-infrastructure-as-a-code-iac-using-terraforms/)
+- [Writing my first Infrastructure as a Code &lpar;IaC&rpar; using Terraforms](https://www.linuxguy.io/writing-my-first-infrastructure-as-a-code-iac-using-terraforms/)
 <!-- BLOG-POST-LIST:END -->
