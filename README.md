@@ -77,5 +77,6 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An AWS Cloud Architecture for web hosting](https://www.linuxguy.io/an-aws-cloud-architecture-for-web-hosting/)
 - [Writing my first Infrastructure as a Code &lpar;IaC&rpar; using Terraforms](https://www.linuxguy.io/writing-my-first-infrastructure-as-a-code-iac-using-terraforms/)
 <!-- BLOG-POST-LIST:END -->
